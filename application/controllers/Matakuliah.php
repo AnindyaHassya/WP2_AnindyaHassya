@@ -33,3 +33,4 @@ class Matakuliah extends CI_Controller
         }
     }
 }
+//matakuliah.php//
