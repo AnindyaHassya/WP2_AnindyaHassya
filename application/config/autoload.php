@@ -73,7 +73,7 @@ $autoload['libraries'] = array('form_validation', 'session', 'database');
 |
 |	$autoload['drivers'] = array('cache');
 |
-| You can also supply an alternative property name to be assigned in
+| You can also supply an alternativee property name to be assigned in
 | the controller:
 |
 |	$autoload['drivers'] = array('cache' => 'cch');
