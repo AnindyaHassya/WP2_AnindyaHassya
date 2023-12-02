@@ -28,7 +28,7 @@ class Autentifikasi extends CI_Controller
             $this->_login();
         }
     }
-
+//Autentifikasi.php//
     private function _login()
     {
         $email = htmlspecialchars($this->input->post('email', true));
