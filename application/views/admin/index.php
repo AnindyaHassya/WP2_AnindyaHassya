@@ -103,7 +103,7 @@
             <th>#</th>
             <th>Nama Anggota</th>
             <th>Email</th>
-            <th>Role ID</th>
+            <th>Role id</th>
             <th>Aktif</th>
             <th>Member Sejak</th>
           </tr>
