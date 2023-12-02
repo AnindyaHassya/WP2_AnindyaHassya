@@ -34,7 +34,7 @@
                           </form>
                           <hr>
                           <div class="text-center">
-                              Sudah Menjadi Member?<a class="small" href="<?= base_url('autentifikasi'); ?>"> Login!</a>
+                              Sudah Menjadi Member?<a class="small" href="<?= base_url('autentifikasi'); ?>"> login!</a>
                           </div>
                       </div>
                   </div>
