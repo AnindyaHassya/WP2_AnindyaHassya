@@ -1,5 +1,5 @@
 </div>
-<script type="text/javascript">
+<script type="text/Javascript">
 	$(document).ready(function(){
 		$("#table-datatable").dataTable();
 	});
