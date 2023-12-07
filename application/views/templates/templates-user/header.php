@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Pustaka-Booking</title>
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/user/css/bootstrap.css">
-</head>
+    <link rel="stylesheet" href="<?= Base_url(); ?>assets/user/css/bootstrap.css">
+</head
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
