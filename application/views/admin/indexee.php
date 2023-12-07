@@ -13,7 +13,7 @@
 						<div class="huge">
 							<font size="18"><b><?php echo $this->m_perpus->get_data('buku')->num_rows(); ?></b></font>
 						</div>
-						<div><b>Jumlah Buku yang Terdaftar</b></div>
+						<div><b>Jumlah Buku Yang Terdaftar</b></div>
 					</div>
 				</div>
 			</div>
