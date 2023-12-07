@@ -26,7 +26,7 @@
                                 </form>
                                 <hr>
                                 <div class="text-center">
-                                    <a class="small" href="<?= base_url(); ?>">Masuk? </a>
+                                    <a class="small" href="<?= base_url(); ?>">masuk? </a>
                                 </div>
                                 <div class="text-center">
                                     Belum Memiliki Akun?<a class="small" href="<?= base_url('autentifikasi/registrasi'); ?>"> Daftar!</a>
