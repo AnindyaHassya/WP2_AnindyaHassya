@@ -12,7 +12,7 @@
                         <div class="col-lg">
                             <div class="p-5">
                                 <div class="text-center">
-                                    <h1 class="h4 text-gray-900">Ubah Password untuk</h1>
+                                    <h1 class="h4 text-gray-900">Ubah password untuk</h1>
                                     <h5 class="mb-4"><?= $this->session->userdata('reset_email');?></h5>
                                 </div>
                                 <?= $this->session->flashdata('pesan'); ?>
