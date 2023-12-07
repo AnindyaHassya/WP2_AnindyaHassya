@@ -7,7 +7,7 @@
 
             <form action="<?= base_url('user/ubahPassword'); ?>" method="post">
                 <div class="form-gorup">
-                    <label for="password_sekarang">Password Saat ini</label>
+                    <label for="password_sekarang">Password Saat Ini</label>
                     <input type="password" class="form-control" id="password_sekarang" name="password_sekarang">
                     <?= form_error('password_sekarang', '<small class="text-danger pl-3">', '</small>'); ?>
                 </div>
