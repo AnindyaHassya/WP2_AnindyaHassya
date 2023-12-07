@@ -8,7 +8,6 @@ class User extends CI_Controller
         parent::__construct();
         cek_login();
     }
-//user.php//
     public function index()
     {
         $data['judul'] = 'Profil Saya';
@@ -20,7 +19,7 @@ class User extends CI_Controller
         $this->load->view('user/index', $data);
         $this->load->view('templates/footer');
     }
-
+//User.php//
     public function anggota()
     {
         $data['judul'] = 'Data Anggota';
