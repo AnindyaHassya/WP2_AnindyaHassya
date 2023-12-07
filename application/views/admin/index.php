@@ -101,7 +101,7 @@
         <thead>
           <tr>
             <th>#</th>
-            <th>Nama Anggota</th>
+            <th>Nama anggota</th>
             <th>Email</th>
             <th>Role id</th>
             <th>Aktif</th>
