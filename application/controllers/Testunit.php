@@ -8,11 +8,10 @@ class Testunit extends CI_Controller
         parent::__construct();
         $this->load->library('unit_test');
     }
-
+//Testunit.php//
     private function division($a,$b){
         return $a/$b;
     }
-
     public function index()
     {
         echo "using Unit Test";
