@@ -8,12 +8,11 @@ class ModelBuku extends CI_Model
     {
         return $this->db->get('buku');
     }
-//ModelBuku.php//
     public function bukuWhere($where)
     {
         return $this->db->get_where('buku', $where);
     }
-
+//ModelBuku.php//
     public function simpanBuku($data = null)
     {
         $this->db->insert('buku',$data);
